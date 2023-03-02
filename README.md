@@ -3,9 +3,9 @@
 # Project Name : TrashGO
 TrashGo is a web app for waste collection from each house is an innovative solution to manage waste collection more efficiently. This web app is designed to streamline the waste collection process by providing a platform for residents to schedule waste pick-up from their doorstep. It allows residents to sign up, create their profile, and schedule their waste collection. It  also features a dashboard for waste collection agents, allowing them to view their assigned collection routes, track their progress, and manage their collection activities. This web  app also provides real-time updates to residents and collection agents about the status of waste collection.It also include the features like AIchatbot,voice assistance etc. This solution helps to reduce the environmental impact of waste disposal, as well as promote cleanliness and hygiene in local communities. The web app for waste collection from each house has the potential to transform the waste management industry by making waste collection more efficient, convenient, and eco-friendly.
 ## Team members
-1. Farisha K R:github.com/FarishaKR
+1. Farisha K R: github.com/FarishaKR
 2. Jesna Susan Siby:https://github.com/jesna424
-3. Jasmin M A
+3. Jasmin M A: https://github.com/JASMIN-glitch
 4.
 ## Team Id
 Team id here
